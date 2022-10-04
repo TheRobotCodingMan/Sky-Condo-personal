@@ -16,7 +16,7 @@ p {
 	z-index: 3;
 	font-weight: 500;
 }
-#nav:hover {
+#nav:hover + li {
 	color: #66c2ff;
 }
 li, #nav {
