@@ -10,7 +10,6 @@ p {
 }
 #nav {
 	// text-align: center;
-	background-color: #008ae6;
 	// width: 100%;
 	// margin: 6px auto;
 	// padding: 6px 20px 6px 12px;
@@ -22,6 +21,7 @@ li:hover {
 }
 li {
 	color: white;
+	background-color: #008ae6;
 }
 h1 {
 	text-align: center;
