@@ -19,7 +19,7 @@ p {
 li:hover {
 	color: #66c2ff;
 }
-li {
+li, #nav {
 	color: white;
 	background-color: #008ae6;
 }
