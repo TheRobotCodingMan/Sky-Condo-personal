@@ -15,7 +15,7 @@ p {
 	padding: 6px 20px 6px 12px;
 	color: black;
 }
-li.hover {
+li:hover {
 	color: #66c2ff;
 	background-color: black;
 }
@@ -40,7 +40,7 @@ body {
 	font-family: 'Roboto Slab', serif;
 	margin: 0 auto;
 }
-a.hover {
+a:hover {
 	color: white;
 }
 a {
